@@ -1,6 +1,4 @@
 
-
-
 function showChinaMap() {
     document.getElementById("china").src= "https://www.nationsonline.org/maps/China-Political-Map.jpg";
     document.getElementById("h1").innerText = "China";
